@@ -1,0 +1,33 @@
+/* Name : Xavier Hollingsworth
+ * Date : 04/22/18
+ */
+
+1) 0 to 8 = Total 8
+   Add 8 + 1 for doubling capacity = Total 17
+   Add 7 to reach 16 = Total 24
+   Add 16 + 1 for doubling capacity = Total 41
+   Add 15 to reach 32 = Total 56
+   Add 32 + 1 for doubling capacity = Total 89
+   Add 7 to reach 40 = Total 96
+
+   Big O Complexity = 0(n)
+
+2) 0 to 8 = Total 8
+   Add 8 + 2 for increasing capacity by 2 and reaching capactiy of 10 = Total 18
+   Add 10 + 2 for increasing capacity by 2 and reaching capacity of 12 = Total 30
+   Add 12 + 2 for increasing capacity by 2 and reaching capacity of 14 = Total 44
+   Add 14 + 2 for increasing capacity by 2 and reaching capacity of 16 = Total 60
+   Add 16 + 2 for increasing capacity by 2 and reaching capacity of 18 = Total 78
+   Add 18 + 2 for increasing capacity by 2 and reaching capacity of 20 = Total 98
+   Add 20 + 2 for increasing capacity by 2 and reaching capacity of 22 = Total 120
+   Add 22 + 2 for increasing capacity by 2 and reaching capacity of 24 = Total 144
+   Add 24 + 2 for increasing capacity by 2 and reaching capacity of 26 = Total 170
+   Add 26 + 2 for increasing capacity by 2 and reaching capacity of 28 = Total 198
+   Add 28 + 2 for increasing capacity by 2 and reaching capacity of 30 = Total 228
+   Add 30 + 2 for increasing capacity by 2 and reaching capacity of 32 = Total 260
+   Add 32 + 2 for increasing capacity by 2 and reaching capacity of 34 = Total 294
+   Add 34 + 2 for increasing capacity by 2 and reaching capacity of 36 = Total 330
+   Add 36 + 2 for increasing capacity by 2 and reaching capacity of 38 = Total 368
+   Add 38 + 2 for increasing capacity by 2 and reaching capacity of 40 = Total 408
+   
+   Big O Complexity = 0(n)
